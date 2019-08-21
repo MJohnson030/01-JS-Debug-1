@@ -2,8 +2,8 @@
 
  *    Photo gallery
  *    Variables and functions
- *    Author: 
- *    Date:   
+ *    Author: Millione Johnson
+ *    Date: 8/15/19   
 
  *    Filename: photos.js
  */
